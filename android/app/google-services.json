@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "729575125596",
+    "firebase_url": "https://usersigin-de31d.firebaseio.com",
+    "project_id": "usersigin-de31d",
+    "storage_bucket": "usersigin-de31d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729575125596:android:4d62e3ac5c1e3dcb96ec99",
+        "android_client_info": {
+          "package_name": "com.example.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729575125596-qu1c2ipqtlgg63d8urtl66juifcvrir2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signin",
+            "certificate_hash": "78791ff3004a9946b9c9cad849d2769af4672775"
+          }
+        },
+        {
+          "client_id": "729575125596-vgsc87470jaohj6vjt1t0fvrk2c9uckc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkE7vcNNO84PEo8iREoO401-v8TQpMwME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729575125596-vgsc87470jaohj6vjt1t0fvrk2c9uckc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
